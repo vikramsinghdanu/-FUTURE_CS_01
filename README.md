@@ -16,3 +16,5 @@ OWASP ZAP: Automated security scanning and alert generation.
 Browser DevTools: Manual network analysis and header inspection.
 
 Canva: Professional documentation and report generation.
+
+[View Full Vulnerability Report](./FUTURE_CS_01.pdf)
