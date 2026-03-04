@@ -11,6 +11,7 @@ Scope:
 A web application security audit focusing on automated vulnerability identification and manual verification of server-side misconfigurations.
 
 Tools Used: 
+
 OWASP ZAP: Automated security scanning and alert generation.
 
 Browser DevTools: Manual network analysis and header inspection.
